@@ -2,7 +2,6 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    base: '/repo/',
     title: "My Page",
     description: "My Project hyperlink",
     themeConfig: {
